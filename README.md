@@ -1,2 +1,3 @@
 # estatistica-descritiva
- Trabalhos realizados em R de Estatística
+
+ Esse repositório apresenta alguns trabalhos realizados em linguagem **R** na disciplina de **Estatística Descritiva**.
